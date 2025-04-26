@@ -90,10 +90,3 @@ Este projeto tem como objetivo aplicar técnicas de **organização de documento
 Ao concluir este LAB, foi possível entender na prática como a combinação de **Azure Cognitive Search** com **habilidades de enriquecimento de IA** transforma dados brutos em fontes ricas de informação. Além disso, foi reforçada a importância da documentação clara e do uso de boas práticas no compartilhamento de conhecimento técnico.
 
 ---
-
-# 🚀 Obrigado!
-
----
-
-Se quiser, posso também montar uma versão com TOC (Table of Contents - índice automático clicável) ou dar dicas para deixar o README ainda mais bonito com badges e ícones.  
-Quer que eu monte uma segunda versão um pouco mais estilizada também? 🎨✨
